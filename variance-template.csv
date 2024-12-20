@@ -1,0 +1,136 @@
+Account A,Revenue,Resource Cost,Direct Expense,GA Expense,Sales Expense
+PREVIOUS MONTH VALUE,"47,10,831","34,49,634","74,557","1,18,149","77,255"
+INCOME,"5,35,667", -   , -   , -   , -   
+Allocation Impact,"2,983", -   , -   , -   , -   
+Billed Rate Change Impact,-125, -   , -   , -   , -   
+Days Impact,"4,08,862", -   , -   , -   , -   
+New Project/CR,"3,12,641", -   , -   , -   , -   
+Others,"-36,431", -   , -   , -   , -   
+Project Completed,"-2,52,096", -   , -   , -   , -   
+Ramp Down,"-2,41,753", -   , -   , -   , -   
+Ramp Up,"3,48,930", -   , -   , -   , -   
+Vacation Impact,"-7,344", -   , -   , -   , -   
+RESOURCE COST, -   ,"2,78,207", -   , -   , -   
+Contractor T&M Days Impact, -   ,"3,080", -   , -   , -   
+Contractor T&M Ramp Up, -   ,"6,415", -   , -   , -   
+Employee Non T&M Days Impact, -   ,992, -   , -   , -   
+Employee Non T&M Ramp Up, -   ,"8,091", -   , -   , -   
+Employee T&M Days Impact, -   ,"1,57,901", -   , -   , -   
+Employee T&M Ramp Down, -   ,"-1,58,999", -   , -   , -   
+Employee T&M Ramp Up, -   ,"2,13,630", -   , -   , -   
+Others, -   ,"47,097", -   , -   , -   
+DIRECT EXPENSES, -   , -   ,"4,246", -   , -   
+Bad debts and foreseeable loss, -   , -   ,"-23,492", -   , -   
+Communication expense, -   , -   ,"65,884", -   , -   
+Consultant fees, -   , -   , -   , -   , -   
+Employee compensation expense, -   , -   ,249, -   , -   
+Marketing expense, -   , -   ,213, -   , -   
+NULL, -   , -   , -   , -   , -   
+Other expenses, -   , -   ,"-2,496", -   , -   
+Professional fees, -   , -   ,"-48,906", -   , -   
+Recruitment expense, -   , -   ,"-1,249", -   , -   
+Repair and maintenance expense, -   , -   ,119, -   , -   
+Software license expense, -   , -   ,262, -   , -   
+Training expense, -   , -   ,-8, -   , -   
+Travel expense, -   , -   ,"9,633", -   , -   
+Visa expense, -   , -   ,"4,036", -   , -   
+EXPENSE SALES, -   , -   , -   , -   ,"4,980"
+Communication expense, -   , -   , -   , -   ,145
+Employee compensation expense, -   , -   , -   , -   ,-178
+Marketing expense, -   , -   , -   , -   ,"5,500"
+NULL, -   , -   , -   , -   ,"-1,332"
+Other expenses, -   , -   , -   , -   ,-25
+Software license expense, -   , -   , -   , -   ,5
+Travel expense, -   , -   , -   , -   ,865
+EXPENSE GNA, -   , -   , -   ,"16,684", -   
+Communication expense, -   , -   , -   ,68, -   
+Employee compensation expense, -   , -   , -   ,"1,424", -   
+NULL, -   , -   , -   ,"14,279", -   
+Other expenses, -   , -   , -   ,613, -   
+Rent and electricity expense, -   , -   , -   ,287, -   
+Repair and maintenance expense, -   , -   , -   , -   , -   
+Software license expense, -   , -   , -   ,13, -   
+Current Month,"52,46,497","37,27,841","78,803","1,34,833","82,235"
+,,,,,
+,,,,,
+Account B,Revenue,Resource Cost,Direct Expense,GA Expense,Sales Expense
+PREVIOUS MONTH VALUE,"23,32,372","14,22,265","39,796","49,564","53,804"
+INCOME,"62,220", -   , -   , -   , -   
+Billed Rate Change Impact,"2,838", -   , -   , -   , -   
+New Project/CR,"14,123", -   , -   , -   , -   
+Others,"57,210", -   , -   , -   , -   
+Ramp Down,"-5,19,035", -   , -   , -   , -   
+Ramp Up,"4,52,584", -   , -   , -   , -   
+Vacation Impact,"54,500", -   , -   , -   , -   
+RESOURCE COST, -   ,"55,458", -   , -   , -   
+Contractor Non T&M Ramp Down, -   ,"-1,232", -   , -   , -   
+Contractor Non T&M Ramp Up, -   ,"1,232", -   , -   , -   
+Employee Non T&M Ramp Down, -   ,"-1,80,071", -   , -   , -   
+Employee Non T&M Ramp Up, -   ,"2,18,014", -   , -   , -   
+Others, -   ,"17,515", -   , -   , -   
+DIRECT EXPENSES, -   , -   ,"26,102", -   , -   
+Communication expense, -   , -   ,"-13,079", -   , -   
+Consultant fees, -   , -   , -   , -   , -   
+Employee compensation expense, -   , -   ,112, -   , -   
+Marketing expense, -   , -   ,"1,438", -   , -   
+NULL, -   , -   , -   , -   , -   
+Other expenses, -   , -   ,385, -   , -   
+Professional fees, -   , -   ,-6, -   , -   
+Recruitment expense, -   , -   ,"3,703", -   , -   
+Repair and maintenance expense, -   , -   ,139, -   , -   
+Software license expense, -   , -   ,167, -   , -   
+Travel expense, -   , -   ,"19,516", -   , -   
+Visa expense, -   , -   ,"13,727", -   , -   
+EXPENSE SALES, -   , -   , -   , -   ,"-9,217"
+Communication expense, -   , -   , -   , -   ,236
+Employee compensation expense, -   , -   , -   , -   ,-683
+Marketing expense, -   , -   , -   , -   ,928
+NULL, -   , -   , -   , -   ,515
+Other expenses, -   , -   , -   , -   ,407
+Software license expense, -   , -   , -   , -   ,0
+Travel expense, -   , -   , -   , -   ,"-10,510"
+Visa expense, -   , -   , -   , -   ,-110
+EXPENSE GNA, -   , -   , -   ,"22,376", -   
+NULL, -   , -   , -   ,"20,640", -   
+Other expenses, -   , -   , -   ,"1,736", -   
+Current Month,"23,94,592","14,77,723","65,899","71,940","44,587"
+,,,,,
+,,,,,
+Account C,Revenue,Resource Cost,Direct Expense,GA Expense,Sales Expense
+PREVIOUS MONTH VALUE,"12,16,582","8,62,138","1,22,067","27,698",85
+INCOME,"1,63,349", -   , -   , -   , -   
+Allocation Impact,"-19,241", -   , -   , -   , -   
+Billed Rate Change Impact,"1,539", -   , -   , -   , -   
+Days Impact,"1,93,935", -   , -   , -   , -   
+Others,"-27,837", -   , -   , -   , -   
+Ramp Down,"-53,056", -   , -   , -   , -   
+Ramp Up,"36,932", -   , -   , -   , -   
+Vacation Impact,"31,078", -   , -   , -   , -   
+RESOURCE COST, -   ,"-2,661", -   , -   , -   
+Employee T&M Days Impact, -   ,"1,225", -   , -   , -   
+Employee T&M Ramp Down, -   ,"-23,847", -   , -   , -   
+Employee T&M Ramp Up, -   ,"28,837", -   , -   , -   
+Others, -   ,"-8,876", -   , -   , -   
+DIRECT EXPENSES, -   , -   ,"24,746", -   , -   
+Communication expense, -   , -   ,-36, -   , -   
+Employee compensation expense, -   , -   ,"1,069", -   , -   
+Marketing expense, -   , -   , -   , -   , -   
+NULL, -   , -   , -   , -   , -   
+Other expenses, -   , -   ,"1,187", -   , -   
+Professional fees, -   , -   ,"63,328", -   , -   
+Recruitment expense, -   , -   ,"2,866", -   , -   
+Repair and maintenance expense, -   , -   ,"-5,158", -   , -   
+Software license expense, -   , -   ,"1,819", -   , -   
+Training expense, -   , -   ,-101, -   , -   
+Travel expense, -   , -   ,"6,062", -   , -   
+Visa expense, -   , -   ,"-46,290", -   , -   
+EXPENSE SALES, -   , -   , -   , -   ,"3,872"
+Employee compensation expense, -   , -   , -   , -   ,134
+Marketing expense, -   , -   , -   , -   ,-42
+NULL, -   , -   , -   , -   ,134
+Other expenses, -   , -   , -   , -   ,"1,438"
+Travel expense, -   , -   , -   , -   ,"2,209"
+EXPENSE GNA, -   , -   , -   ,-48, -   
+NULL, -   , -   , -   ,66, -   
+Other expenses, -   , -   , -   ,-113, -   
+Current Month,"13,79,932","8,59,477","1,46,813","27,650","3,958"
